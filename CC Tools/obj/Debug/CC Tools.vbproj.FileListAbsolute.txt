@@ -1,0 +1,6 @@
+C:\Users\MONSTERMC\Desktop\New folder (4)\CC Tools\obj\Debug\CC_Tools.Binners.resources
+C:\Users\MONSTERMC\Desktop\New folder (4)\CC Tools\obj\Debug\CC_Tools.Main.resources
+C:\Users\MONSTERMC\Desktop\New folder (4)\CC Tools\obj\Debug\Resources.resources
+C:\Users\MONSTERMC\Desktop\New folder (4)\CC Tools\obj\Debug\CC Tools.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Desktop\New folder (4)\CC Tools\obj\Debug\CC Tools.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Desktop\New folder (4)\CC Tools\obj\Debug\CC Tools.vbproj.AssemblyReference.cache
